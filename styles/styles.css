@@ -1,0 +1,53 @@
+p,
+ul {
+    color: blue;
+    width: 700px;
+    font-size: 30px;
+    text-align: center;
+}
+
+li {
+    color: aqua;
+    font-size: 21px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+h1,
+h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: greenyellow;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+a {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    border: 3px solid green;
+    margin-left: 70px;
+    display: block;
+    margin: 0 auto;
+}
+
+html {
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    background-color: whitesmoke;
+}
+
+body {
+    width: 800px;
+    margin: 20px auto;
+    background-color: orange;
+    padding: 0 20px 20px 20px;
+    border: 5px solid purple;
+}
