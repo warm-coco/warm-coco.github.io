@@ -1,7 +1,6 @@
 p,
 ul {
     color: blue;
-    width: 700px;
     font-size: 30px;
     text-align: center;
 }
@@ -45,7 +44,8 @@ html {
 }
 
 body {
-    width: 800px;
+    width: 100%;
+    hight:100%;
     margin: 20px auto;
     background-color: orange;
     padding: 0 20px 20px 20px;
