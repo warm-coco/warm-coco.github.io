@@ -32,6 +32,8 @@ a {
 }
 
 img {
+    width:auto;
+    width:auto
     border: 3px solid green;
     margin-left: 70px;
     display: block;
@@ -45,7 +47,8 @@ html {
 }
 
 body {
-    width: 800px;
+    width: 50%;
+    hight:100%;
     margin: 20px auto;
     background-color: orange;
     padding: 0 20px 20px 20px;
