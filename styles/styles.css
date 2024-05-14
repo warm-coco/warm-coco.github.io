@@ -1,71 +1,71 @@
-p {
-    color: blue;
-    font-size: 25px;
-    text-align: center;
-}
-
-li {
-    color: aqua;
-    font-size: 21px;
-    line-height: 1.5;
-    letter-spacing: 1px;
-}
-
-h1 {
-    margin: 0;
-    padding: 20px 0;
-    color: greenyellow;
-    font-size: 40px;
-    text-align: center;
-    text-shadow: 3px 3px 1px black;
-}
-
-h2 {
-    margin: 0;
-    padding: 20px 0;
-    color: hotpink;
-    font-size: 30px;
-    text-align: center;
-    text-shadow: 3px 3px 1px black;
-}
-
-h3 {
-    margin: 0;
-    padding: 20px 0;
-    color: hotpink;
-    font-size: 30px;
-    text-align: center;
-    text-shadow: 3px 3px 1px black;
-}
-
-a {
-    color: red;
-    font-size: 20px;
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-}
-
-img {
-    width: auto;
-    height: auto;
-    border: 3px solid green;
-    margin-left: 70px;
-    display: block;
-    margin: 0 auto;
-}
-
-html {
-    font-size: 10px;
-    font-family: "Open Sans", sans-serif;
-    background-color: whitesmoke;
-}
-
-body {
-    width: auto;
-    height: auto;
-    margin: 20px auto;
-    background-color: orange;
-    padding: 0 20px 20px 20px;
-    border: 5px solid purple;
-}
+    p {
+        color: blue;
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    li {
+        color: aqua;
+        font-size: 21px;
+        line-height: 1.5;
+        letter-spacing: 1px;
+    }
+    
+    h1 {
+        color: greenyellow;
+        font-size: 40px;
+        margin: 0;
+        padding: 20px 0;
+        text-align: center;
+        text-shadow: 3px 3px 1px black;
+    }
+    
+    h2 {
+        color: hotpink;
+        font-size: 30px;
+        margin: 0;
+        padding: 20px 0;
+        text-align: center;
+        text-shadow: 3px 3px 1px black;
+    }
+    
+    h3 {
+        color: hotpink;
+        font-size: 30px;
+        margin: 0;
+        padding: 20px 0;
+        text-align: center;
+        text-shadow: 3px 3px 1px black;
+    }
+    
+    a {
+        color: red;
+        display: block;
+        font-size: 20px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    img {
+        border: 3px solid green;
+        display: block;
+        height: auto;
+        margin-left: 70px;
+        margin: 0 auto;
+        width: auto;
+    }
+    
+    html {
+        background-color: whitesmoke;
+        font-size: 10px;
+        font-family: "Open Sans", sans-serif;
+    }
+    
+    body {
+        background-color: orange;
+        border: 5px solid purple;
+        height: auto;
+        margin: 20px auto;
+        padding: 0 20px 20px 20px;
+        width: auto;
+    }
